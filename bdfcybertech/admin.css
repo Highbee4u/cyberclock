@@ -1,0 +1,86 @@
+body{
+text-align: center;
+background: ButtonHighlight;
+color: blue;
+}
+#wrapper{
+width: 680px;
+margin: auto;
+padding: 1px;
+border: 1px solid white;
+}
+#banner{
+clear: both;
+margin: 10px 0 0 0 ;
+padding: 5px 0 0 0;
+background: CaptionText;
+}
+#wrapper #content{
+clear: both;
+border: 2px solid #06A1E1;
+margin: 0;
+padding: 10px;
+font-family: sans-serif;
+line-height: 150%;
+}
+#wrapper #content #login_page{
+margin: 20px 0 10px 0;
+}
+#footer{
+clear: both;
+margin: 2px 0;
+padding: 1px;
+}
+#footer p{
+color: black;
+font-weight: weight;
+font-size: 78%;
+}
+.label{
+display: block;
+float: left;
+width: 100px;
+color: black;
+font-size: 70%;
+font-weight: bold;
+margin: 0;
+padding: 0 0 0 100px;
+}
+.input{
+width: 270px;
+color: #616262;
+font-family: Verdana;
+}
+#user_admin{
+	width: 49%;
+	float: left;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin: 3px 1px;
+}
+#tickets{
+	width: 49%;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin: 3px 1px;
+	float: right;
+}
+iframe{
+	border: 1px solid white;
+	margin: 1px auto;
+	padding: 1px;
+	line-height: 0.8em;
+	height: auto;
+}
+#down{
+	clear: both;
+}
+#count{
+	clear:both;
+	width: 100%;
+	height: 28px;
+	margin: -2px;
+	padding: -10px;
+}
